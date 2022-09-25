@@ -1,6 +1,7 @@
 # Atividade Projeto Estruturado [APE]
 
  1. O que é o Git?
+ 
  Git é o sistema de controle de versão open source mais usado no mundo atualmente! Ele é usado para controlar 
  o histórico de alterações de arquivos e principalmente de projetos de desenvolvimento de software. 
  Ele permite mais flexibilidade no fluxo de trabalho, segurança e desempenho. 
@@ -14,6 +15,7 @@ uma aplicação de modo simples e rápido. Este tipo de sistema também simplifi
 de um projeto com um time, por exemplo, ou com outros(as) programadores(as). 
 
 2. O que é versionamento de software?
+
 R: Organização e controle na gestão de projetos de desenvolvimento de softwares podem fazer toda a 
 diferença entre o sucesso ou fracasso do resultado. Implementações de melhorias durante a fase de 
 desenvolvimento e, principalmente, após o lançamento do produto, exigem um controle rigoroso, já que 
@@ -30,6 +32,7 @@ podem afetar diretamente no funcionamento do sistema. Esse controle pode ser fei
 
 
 3. Por que utilizar o Git como controle de versionamento?
+
 R: Como um bom sistema de controle de versão, o Git registra as mudanças que ocorrem no código-fonte de um projeto. 
 Logo, permite que os arquivos sejam alterados de forma simultânea, por inúmeras pessoas, 
 sem a preocupação que essas alterações sejam sobrescritas umas pelas outras.
@@ -40,6 +43,7 @@ Afinal, ele simplifica o controle de operações realizadas por inúmeras pessoa
 Fora que é muito utilizado no mercado de trabalho para ter controle e organização. 
 
 4. Quais as vantagens do Git? 
+
 R: O Git usa a concepção de repositório local, onde você tem uma cópia do “repositório completo” do seu projeto. 
 Você pode comentar as modificações que fez nos arquivos do seu projeto para o repositório local. 
 
@@ -50,8 +54,8 @@ O git consegue proporcionar isso de maneira simples e fácil, fora que tu conseg
 comentar cada alteração que na hora da documentação fica fácil.
 
 
-5. Qual a importância da utilização do controle de versionamento no
-desenvolvimento de um software?
+5. Qual a importância da utilização do controle de versionamento no desenvolvimento de um software?
+
 R: Com o versionamento de software, é possível criar pequenas versões internas, na qual cada um dos programadores 
 fará suas alterações sem se preocupar com os demais membros do time. Isso porque cada versão é isolada, evitando problemas.
 
@@ -62,8 +66,8 @@ Ao finalizar essa tarefa, o desenvolvedor pode realizar a inclusão de suas alte
 leva a função a ser disponibilizada aos demais. Caso algum erro aconteça, o controle de versionamento permite reverter 
 as alterações para uma versão anterior, na qual as mudanças não existiam.
  
- 6. Cite pelo menos três ferramentas de controle de versão e faça um breve
-detalhamento sobre cada uma delas.
+ 6. Cite pelo menos três ferramentas de controle de versão e faça um breve detalhamento sobre cada uma delas.
+
 R: CVS é uma das ferramentas de controle de software mais antigas, ela foi desenvolvida em 1968. 
 E uma ferramenta fácil de mexer e já ajudou muitos desenvolvedores na época.
 
